@@ -1,7 +1,7 @@
 #  Team Techno Dynamics 
 
 ##  Overview
-This repository documents the design, implementation, and algorithms for **Team Techno Dynamics**’ autonomous mobile robot, developed for the **Hawkins Interdimensional Challenge** organized by the Department of Electronic and Telecommunication Engineering, University of Moratuwa.
+This repository documents the design, implementation, and algorithms for **Team Techno Dynamics**’ autonomous mobile robot, developed for the **Hawkins Interdimensional Challenge**.
 
 The challenge simulates a high-stakes mission to seal an interdimensional rift, with the robot completing **8 sequential tasks** involving navigation, object manipulation, color tracking, portal traversal, and precision coin placement — all autonomously.
 
